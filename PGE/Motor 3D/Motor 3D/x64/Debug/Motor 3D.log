@@ -1,0 +1,12 @@
+﻿  Motor 3D.cpp
+C:\Users\santi\OneDrive\Escritorio\C++ Juegos\Experimentos\Complejos\Motor 3D\Motor 3D\Motor 3D.cpp(90,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\santi\OneDrive\Escritorio\C++ Juegos\Experimentos\Complejos\Motor 3D\Motor 3D\Motor 3D.cpp(238,38): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\santi\OneDrive\Escritorio\C++ Juegos\Experimentos\Complejos\Motor 3D\Motor 3D\Motor 3D.cpp(239,38): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\santi\OneDrive\Escritorio\C++ Juegos\Experimentos\Complejos\Motor 3D\Motor 3D\Motor 3D.cpp(240,38): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\santi\OneDrive\Escritorio\C++ Juegos\Experimentos\Complejos\Motor 3D\Motor 3D\Motor 3D.cpp(259,52): warning C4244: 'argumento': conversión de 'float' a 'int32_t'; posible pérdida de datos
+C:\Users\santi\OneDrive\Escritorio\C++ Juegos\Experimentos\Complejos\Motor 3D\Motor 3D\Motor 3D.cpp(259,31): warning C4244: 'argumento': conversión de 'float' a 'int32_t'; posible pérdida de datos
+C:\Users\santi\OneDrive\Escritorio\C++ Juegos\Experimentos\Complejos\Motor 3D\Motor 3D\Motor 3D.cpp(258,52): warning C4244: 'argumento': conversión de 'float' a 'int32_t'; posible pérdida de datos
+C:\Users\santi\OneDrive\Escritorio\C++ Juegos\Experimentos\Complejos\Motor 3D\Motor 3D\Motor 3D.cpp(258,31): warning C4244: 'argumento': conversión de 'float' a 'int32_t'; posible pérdida de datos
+C:\Users\santi\OneDrive\Escritorio\C++ Juegos\Experimentos\Complejos\Motor 3D\Motor 3D\Motor 3D.cpp(257,55): warning C4244: 'argumento': conversión de 'float' a 'int32_t'; posible pérdida de datos
+C:\Users\santi\OneDrive\Escritorio\C++ Juegos\Experimentos\Complejos\Motor 3D\Motor 3D\Motor 3D.cpp(257,34): warning C4244: 'argumento': conversión de 'float' a 'int32_t'; posible pérdida de datos
+  Motor 3D.vcxproj -> C:\Users\santi\OneDrive\Escritorio\C++ Juegos\Experimentos\Complejos\Motor 3D\x64\Debug\Motor 3D.exe
